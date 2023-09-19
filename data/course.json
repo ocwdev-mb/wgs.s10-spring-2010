@@ -1,0 +1,50 @@
+{
+  "term": "Spring",
+  "year": "2010",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Society",
+      "Gender Studies"
+    ],
+    [
+      "Society",
+      "Women's Studies"
+    ],
+    [
+      "Society",
+      "Latin and Caribbean Studies"
+    ]
+  ],
+  "legacy_uid": "090edc44-454d-4aa3-e284-514c2d329d50",
+  "instructors": {
+    "content": [
+      "9ef7454a-20d7-070b-9bd5-eb40a8153d69"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "f5dd4e79-349d-7996-3ccd-7112f83f71b0",
+    "website": "wgs-s10-special-topics-in-women-gender-studies-seminar-latina-womens-voices-spring-2010"
+  },
+  "course_title": "Special Topics in Women & Gender Studies Seminar: Latina Women's Voices",
+  "course_description": "This course will explore the rich diversity of women's voices and experiences as reflected in writings and films by and about Latina writers, filmmakers, and artists. Through close readings, class discussions and independently researched student presentations related to each text, we will explore not only the unique, individual voice of the writer, but also the cultural, social and political contexts which inform their narratives. We will also examine the roles that gender, familial ties and social and political preoccupations play in shaping the values of the writers and the nature of the characters encountered in the texts and films.\n",
+  "department_numbers": [
+    "WGS"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "WGS.S10",
+  "course_image_thumbnail": {
+    "content": "b0cfa446-4f09-bf03-1eec-4d874812732d",
+    "website": "wgs-s10-special-topics-in-women-gender-studies-seminar-latina-womens-voices-spring-2010"
+  },
+  "learning_resource_types": [
+    "Projects with Examples",
+    "Written Assignments"
+  ],
+  "site_uid": "94e2f0fa-e680-46b2-a1ba-24d6e84053e2",
+  "site_short_id": "wgs.s10-spring-2010",
+  "title": "Course Metadata"
+}
